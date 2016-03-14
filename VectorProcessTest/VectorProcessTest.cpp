@@ -1,8 +1,4 @@
 #include "stdafx.h"
-#define BOOST_TEST_MODULE OK
-#define BOOST_TEST_INCLUDED
-#pragma warning (disable: 4702)
-#include <boost/test/unit_test.hpp>
 #include "../VectorProcess/VectorProcess.h"
 
 BOOST_AUTO_TEST_SUITE(ProcessVector_function)
