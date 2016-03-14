@@ -1,3 +1,4 @@
+#include "stdafx.h"
 #include "VectorProcess.h"
 #include <algorithm>
 #include <boost/phoenix.hpp>
